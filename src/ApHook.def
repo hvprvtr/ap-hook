@@ -1,0 +1,4 @@
+LIBRARY ApHook
+EXPORTS
+    SpLsaModeInitialize
+    SpUserModeInitialize
